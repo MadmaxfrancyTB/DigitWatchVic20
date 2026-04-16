@@ -1,4 +1,5 @@
-# DigitWatchVic20
+# DigitWatchVic20 - Fully working real-time clock on an unexpanded VIC-20 (assembly)
+
 When you have a VIC-20 in the office… what can you do to show everyone what it’s capable of?
 Simple: a digital clock that keeps you company and lets everyone see what time it is!
 
